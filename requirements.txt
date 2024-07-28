@@ -1,0 +1,5 @@
+pandas==2.2.2
+polars==1.2.1
+python-dotenv==1.0.1
+sqlalchemy==2.0.31
+psycopg2==2.9.9
